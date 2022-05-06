@@ -11,10 +11,14 @@
 * {
     font-family: 'Merriweather', serif;
 
-
-
 }
 
+h4{
+    font-weight: bolder;
+    font-style: italic;
+   color: tomato;
+    font-size: larger;
+}
 
 li{
    padding: 10px;
